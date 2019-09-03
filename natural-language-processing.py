@@ -1,5 +1,9 @@
 #Natural Language Processing using Naive Bayes classification
 #predict if a review is positive or negative
+#Author: Mek O.
+#Email: aobchey00@uvic.ca
+#lecture by SuperDataScience on Udemy
+
 
 import numpy as np
 import pandas as pd
