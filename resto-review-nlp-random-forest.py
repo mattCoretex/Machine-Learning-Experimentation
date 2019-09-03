@@ -52,3 +52,14 @@ y_pred = classifier.predict(X_test)
 #making the confusion matrix
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
+
+#performance metrics
+tp = cm[0,0]
+fp = cm[0,1]
+fn = cm[1,0]
+tn = cm[1,1]
+
+acc = (tp + tn) / (tp + tn + fp + fn)
+prec = tp / (tp + fp)
+recall = tp / (tp + fn)
+f1_score = 2 * prec * recall / (prec + recall)
