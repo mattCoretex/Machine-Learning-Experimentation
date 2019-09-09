@@ -1,4 +1,3 @@
-#Natural Language Processing using Naive Bayes classification
 #Natural Language Processing using Random Forest classification
 #train a model to predict if a restaurant review is positive or negative
 #Author: Mek O.
