@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #importing dataset
-dataset = pd.read_csv('Section 36 - Natural Language Processing/Restaurant_Reviews.tsv', sep = '\t', quoting = 3)
+dataset = pd.read_csv('data/Restaurant_Reviews.tsv', sep = '\t', quoting = 3)
 
 #cleaning the texts
 import re
