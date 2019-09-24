@@ -4,4 +4,4 @@ These 3 different Bag-of-Words models are trained to classify a restaurant revie
 
 To do:
 - save outout weights.
-- generate data visualization.
+- generate data for visualization.
