@@ -2,7 +2,6 @@
 #train a model to predict if a restaurant review is positive or negative
 #Author: Mek O.
 #Email: aobchey00@uvic.ca
-#lecture by SuperDataScience on Udemy
 
 
 import numpy as np
