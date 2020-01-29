@@ -1,3 +1,5 @@
 # Machine-Learning-Experimentation
 
-Work in progress
+My compilation of learning how to create natural language processing models.
+
+Work In Progress
