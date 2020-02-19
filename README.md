@@ -3,7 +3,7 @@
 ## The following are self taught projects:
   + Natural Language Processing of restaurant reviews.
   <br>To do:
-     - analyze each model performance after learning from SENG 474
+     - analyze each model performance using methods learned in SENG 474
 
 
 ## The following are projects in SENG 474 class:
