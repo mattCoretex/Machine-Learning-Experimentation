@@ -8,5 +8,4 @@
 
 ## The following are projects in SENG 474 class:
 
-+ 1.1: To analyze Cleveland Heart Disease dataset using Decision Tree, Random Forest, and Neural Networks by Feb 7.
-+ 1.2: To analyze another dataset using the same 3 machine learning models.
++ 1: Analyze Cleveland Heart Disease dataset using Decision Tree, Random Forest, and Neural Networks.
